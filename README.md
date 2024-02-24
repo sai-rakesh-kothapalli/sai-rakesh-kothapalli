@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sai Rakesh Kothapalli
 - 👀 I’m interested in Analytics
-- 🌱 I’m currently learning SQL, Python, Power BI
-- 💞️ I’m looking to collaborate on Business Analysts
-- 📫 How to reach me ... Linked IN
+- 🌱 Experienced Business Analyst with over 3 years in the field, proficient in Excel, PowerPoint, SQL, Power BI, Tableau, Balsamiq, and Microsoft Visio
+- 💞️ Passionate about leveraging data-driven insights to inform strategic decision-making and drive business growth. Let's collaborate and transform data into actionable intelligence!"
+- 📫 Let's collaborate and transform data into actionable intelligence!
 
 <!---
 sai-rakesh-kothapalli/sai-rakesh-kothapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
